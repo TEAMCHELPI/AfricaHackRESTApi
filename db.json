@@ -1,17 +1,17 @@
 {
     "user": [
         {
-            "user_id": 1,
+            "id": 1,
             "user_name": "Chef Duke",
-            "email": "preciousjosiah0@gmail.com",
+            "email": "chefduke@gmail.com",
             "restaurant": {
                 "meal": [
                     {
                         "meal_id": 1,
-                        "user_name": "Chef Duke",
-                        "user_image": "url",
-                        "meal_name": "cup cake",
-                        "meal_image": "url",
+                        "user_name": "Chef Leint",
+                        "user_image": "https://images.app.goo.gl/HAFXinwccbZdWq7V8",
+                        "meal_name": "Chicken Bread",
+                        "meal_image": "https://images.app.goo.gl/nmLsZoURY1dQgCKZ9",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 10,
@@ -20,10 +20,10 @@
                     },
                     {
                         "meal_id": 2,
-                        "user_name": "Chef Duke",
-                        "user_image": "url",
-                        "meal_name": "cup cake",
-                        "meal_image": "url",
+                        "user_name": "Chef Leint",
+                        "user_image": "https://images.app.goo.gl/HAFXinwccbZdWq7V8",
+                        "meal_name": "Chinese Salad",
+                        "meal_image": "https://images.app.goo.gl/Ui5k4U8Dcd76QhA36",
                         "meal_rating": 2.6,
                         "top_meal": false,
                         "price": 20,
@@ -31,22 +31,153 @@
                         "updated_at": "time"
                     }
                 ],
-                "banner": "url",
+                "banner": "https://images.app.goo.gl/324hDAJcRhMLPnqs6",
                 "nice_words": "Meals at it's best, get qaulity cooked, baked and grilled meals",
                 "estimated_meal_time": "5min to 10min"
             },
-            "created_at": "time",
-            "updated_at":  "time"
+            "created_at": "12-11-2020 11:00am",
+            "updated_at":  null
 
 
         },
         {
-            "user_id": 2,
-            "user_name": "Chef Duke",
-            "email": "preciousjosiah0@gmail.com",
-            "restaurant": null,
-            "created_at": "time",
-            "updated_at":  "time"
+            "id": 2,
+            "user_name": "Chef Kentt",
+            "email": "chefkennt@gmail.com",
+            "restaurant": {
+                "meal": [
+                    {
+                        "meal_id": 1,
+                        "user_name": "Chef Kentt",
+                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "meal_name": "Sandwich",
+                        "meal_image": "https://images.app.goo.gl/2eUi45K8mAkhppmg6",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 2,
+                        "user_name": "Chef Kentt",
+                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "meal_name": "Chinese Salad",
+                        "meal_image": "https://images.app.goo.gl/YQ58UUrgB5jDsK5J8",
+                        "meal_rating": 2.6,
+                        "top_meal": true,
+                        "price": 4,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 3,
+                        "user_name": "Chef Kentt",
+                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "meal_name": "Chocolate Cake",
+                        "meal_image": "https://images.app.goo.gl/uSA85Gcn7QHSqK5u6",
+                        "meal_rating": 2.6,
+                        "top_meal": true,
+                        "price": 4,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 4,
+                        "user_name": "Chef Kentt",
+                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "meal_name": "Spanish rice",
+                        "meal_image": "https://images.app.goo.gl/8cNT4cLhUsKpPg1F6",
+                        "meal_rating": 2.6,
+                        "top_meal": true,
+                        "price": 4,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    }
+                ],
+                "banner": "https://images.app.goo.gl/3aeSeDW3mU6o2FnR9",
+                "nice_words": "Meals just got better with chef kentt.",
+                "estimated_meal_time": "5min to 10min"
+            },
+            "created_at": "12-11-2020 11:00am",
+            "updated_at":  null
+
+
+        },
+        {
+            "id": 3,
+            "user_name": "Miss Chef",
+            "email": "misschef@gmail.com",
+            "restaurant": {
+                "meal": [
+                    {
+                        "meal_id": 1,
+                        "user_name": "Miss Chef",
+                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "meal_name": "Chicken Soup",
+                        "meal_image": "https://images.app.goo.gl/9QspNEGdUDrNdnnP9",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 2,
+                        "user_name": "Miss Chef",
+                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "meal_name": "Milk Salad",
+                        "meal_image": "https://images.app.goo.gl/4g8QHGD6t1wovGMt8",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 3,
+                        "user_name": "Miss Chef",
+                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "meal_name": "Prawn salad",
+                        "meal_image": "https://images.app.goo.gl/ugg673M4ULAuaL8h6",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 4,
+                        "user_name": "Miss Chef",
+                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "meal_name": "Prawn salad",
+                        "meal_image": "https://images.app.goo.gl/ugg673M4ULAuaL8h6",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    },
+                    {
+                        "meal_id": 5,
+                        "user_name": "Miss Chef",
+                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "meal_name": "Korea Salad",
+                        "meal_image": "https://images.app.goo.gl/HVH7MVGMQLLWLDYd6",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 30,
+                        "created_at": "12-11-2020 11:00am",
+                        "updated_at":  null
+                    }
+                    
+                ],
+                "banner": "https://images.app.goo.gl/rFjXGYTjZkp9pvtC8",
+                "nice_words": "Get the best of Meals, Quench your hunger",
+                "estimated_meal_time": "5min to 10min"
+            },
+            "created_at": "12-11-2020 11:00am",
+            "updated_at":  null
 
 
         }
