@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "user_id": 1,
+            "user_name": "Chef Duke",
+            "email": "preciousjosiah0@gmail.com",
+            "restaurant": {
+                "meal": [
+                    {
+                        "meal_id": 1,
+                        "user_name": "Chef Duke",
+                        "user_image": "url",
+                        "meal_name": "cup cake",
+                        "meal_image": "url",
+                        "meal_rating": 0.5,
+                        "top_meal": true,
+                        "price": 10,
+                        "created_at": "time",
+                        "updated_at": "time"
+                    },
+                    {
+                        "meal_id": 2,
+                        "user_name": "Chef Duke",
+                        "user_image": "url",
+                        "meal_name": "cup cake",
+                        "meal_image": "url",
+                        "meal_rating": 2.6,
+                        "top_meal": false,
+                        "price": 20,
+                        "created_at": "time",
+                        "updated_at": "time"
+                    }
+                ],
+                "banner": "url",
+                "nice_words": "Meals at it's best, get qaulity cooked, baked and grilled meals",
+                "estimated_meal_time": "5min to 10min"
+            },
+            "created_at": "time",
+            "updated_at":  "time"
+
+
+        },
+        {
+            "user_id": 2,
+            "user_name": "Chef Duke",
+            "email": "preciousjosiah0@gmail.com",
+            "restaurant": null,
+            "created_at": "time",
+            "updated_at":  "time"
+
+
+        }
+    ]
+}
