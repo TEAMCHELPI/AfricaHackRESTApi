@@ -9,9 +9,9 @@
                     {
                         "meal_id": 1,
                         "user_name": "Chef Leint",
-                        "user_image": "https://images.app.goo.gl/HAFXinwccbZdWq7V8",
+                        "user_image": "https://images.unsplash.com/photo-1573640076354-ddcbf94b9b09?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxNTU0NTB8fGVufDB8fHw%3D&w=1000&q=80",
                         "meal_name": "Chicken Bread",
-                        "meal_image": "https://images.app.goo.gl/nmLsZoURY1dQgCKZ9",
+                        "meal_image": "https://bytesflow.com/wp-content/uploads/2020/07/davide-cantelli-jpkfc5_d-DI-unsplash.jpg",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 10,
@@ -21,9 +21,9 @@
                     {
                         "meal_id": 2,
                         "user_name": "Chef Leint",
-                        "user_image": "https://images.app.goo.gl/HAFXinwccbZdWq7V8",
+                        "user_image": "https://images.unsplash.com/photo-1573640076354-ddcbf94b9b09?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxNTU0NTB8fGVufDB8fHw%3D&w=1000&q=80",
                         "meal_name": "Chinese Salad",
-                        "meal_image": "https://images.app.goo.gl/Ui5k4U8Dcd76QhA36",
+                        "meal_image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_rating": 2.6,
                         "top_meal": false,
                         "price": 20,
@@ -31,7 +31,7 @@
                         "updated_at": "time"
                     }
                 ],
-                "banner": "https://images.app.goo.gl/324hDAJcRhMLPnqs6",
+                "banner": "https://unsplash.com/photos/R3LcfTvcGWY/download",
                 "nice_words": "Meals at it's best, get qaulity cooked, baked and grilled meals",
                 "estimated_meal_time": "5min to 10min"
             },
@@ -49,9 +49,9 @@
                     {
                         "meal_id": 1,
                         "user_name": "Chef Kentt",
-                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "user_image": "https://ak.picdn.net/shutterstock/videos/1046832160/thumb/8.jpg",
                         "meal_name": "Sandwich",
-                        "meal_image": "https://images.app.goo.gl/2eUi45K8mAkhppmg6",
+                        "meal_image": "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -61,9 +61,9 @@
                     {
                         "meal_id": 2,
                         "user_name": "Chef Kentt",
-                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "user_image": "https://ak.picdn.net/shutterstock/videos/1046832160/thumb/8.jpg",
                         "meal_name": "Chinese Salad",
-                        "meal_image": "https://images.app.goo.gl/YQ58UUrgB5jDsK5J8",
+                        "meal_image": "https://unsplash.com/photos/awj7sRviVXo/download",
                         "meal_rating": 2.6,
                         "top_meal": true,
                         "price": 4,
@@ -73,9 +73,9 @@
                     {
                         "meal_id": 3,
                         "user_name": "Chef Kentt",
-                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "user_image": "https://ak.picdn.net/shutterstock/videos/1046832160/thumb/8.jpg",
                         "meal_name": "Chocolate Cake",
-                        "meal_image": "https://images.app.goo.gl/uSA85Gcn7QHSqK5u6",
+                        "meal_image": "https://images.unsplash.com/photo-1484300681262-5cca666b0954?ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_rating": 2.6,
                         "top_meal": true,
                         "price": 4,
@@ -85,9 +85,9 @@
                     {
                         "meal_id": 4,
                         "user_name": "Chef Kentt",
-                        "user_image": "https://images.app.goo.gl/CKEVhxtuT5Jrw1qXA",
+                        "user_image": "https://ak.picdn.net/shutterstock/videos/1046832160/thumb/8.jpg",
                         "meal_name": "Spanish rice",
-                        "meal_image": "https://images.app.goo.gl/8cNT4cLhUsKpPg1F6",
+                        "meal_image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpbm5lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_rating": 2.6,
                         "top_meal": true,
                         "price": 4,
@@ -95,7 +95,7 @@
                         "updated_at":  null
                     }
                 ],
-                "banner": "https://images.app.goo.gl/3aeSeDW3mU6o2FnR9",
+                "banner": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0aW5nfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80",
                 "nice_words": "Meals just got better with chef kentt.",
                 "estimated_meal_time": "5min to 10min"
             },
@@ -113,9 +113,9 @@
                     {
                         "meal_id": 1,
                         "user_name": "Miss Chef",
-                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "user_image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_name": "Chicken Soup",
-                        "meal_image": "https://images.app.goo.gl/9QspNEGdUDrNdnnP9",
+                        "meal_image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1000&q=80",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -125,9 +125,9 @@
                     {
                         "meal_id": 2,
                         "user_name": "Miss Chef",
-                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "user_image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_name": "Milk Salad",
-                        "meal_image": "https://images.app.goo.gl/4g8QHGD6t1wovGMt8",
+                        "meal_image": "https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fA%3D%3D&w=1000&q=80",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -137,9 +137,9 @@
                     {
                         "meal_id": 3,
                         "user_name": "Miss Chef",
-                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
-                        "meal_name": "Prawn salad",
-                        "meal_image": "https://images.app.goo.gl/ugg673M4ULAuaL8h6",
+                        "user_image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+                        "meal_name": "Vegie salad",
+                        "meal_image": "https://images.unsplash.com/photo-1536329639134-ade172b2fea0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bHVuY2glMjBmb29kfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -149,9 +149,9 @@
                     {
                         "meal_id": 4,
                         "user_name": "Miss Chef",
-                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "user_image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_name": "Prawn salad",
-                        "meal_image": "https://images.app.goo.gl/ugg673M4ULAuaL8h6",
+                        "meal_image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjh8fGhlYWx0aHklMjBtZWFsc3xlbnwwfHwwfA%3D%3D&w=1000&q=80",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -161,9 +161,9 @@
                     {
                         "meal_id": 5,
                         "user_name": "Miss Chef",
-                        "user_image": "https://images.app.goo.gl/LiNG35eN51xXJ9zMA",
+                        "user_image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_name": "Korea Salad",
-                        "meal_image": "https://images.app.goo.gl/HVH7MVGMQLLWLDYd6",
+                        "meal_image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&w=1000&q=80",
                         "meal_rating": 0.5,
                         "top_meal": true,
                         "price": 30,
@@ -172,7 +172,7 @@
                     }
                     
                 ],
-                "banner": "https://images.app.goo.gl/rFjXGYTjZkp9pvtC8",
+                "banner": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHw%3D&w=1000&q=80",
                 "nice_words": "Get the best of Meals, Quench your hunger",
                 "estimated_meal_time": "5min to 10min"
             },
